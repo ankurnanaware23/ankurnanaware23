@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankurnanaware23
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning BE in Electronics and Telecommunications 
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently working as a software developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
