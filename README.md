@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ankurnanaware23
+- 👋 Hi, I’m @Ankur Nanaware
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working as a software developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me at abhinanaware23@gmail.com
 
 <!---
 ankurnanaware23/ankurnanaware23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
