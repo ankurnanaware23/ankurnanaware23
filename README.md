@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Ankur Nanaware<br>- 👀 I’m interested in Backend Development<br>- 🌱 I’m currently working as a software developer<br>- 📫 How to reach me at abhinanaware23@gmail.com<br>
+- 👋 Hi, I’m @Ankur Nanaware<br>- 👀 I’m interested in Backend Development<br>- 🌱 I’m currently working as a Associate IT consultant <br>- 📫 How to reach me at abhinanaware23@gmail.com<br>
 
 
 ## 🌐 Socials:
